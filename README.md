@@ -41,7 +41,8 @@ A custom-built, professional-grade video player powered by **HLS.js**, featuring
 <img src="screenshots/desktop.PNG" alt="Desktop view" width="100%"/>
 
 ### 📱 Mobile & 🌙 Light Mode  
-<img src="screenshots/mobile.PNG" alt="Mobile view" width="48%"/> <img src="screenshots/lightmode.PNG" alt="Dark mode" width="48%"/>
+<img src="screenshots/lightmode.PNG" alt="Dark mode" width="48%"/>
+<img src="screenshots/mobile.PNG" alt="Mobile view" width="48%"/> 
 
 ---
 
