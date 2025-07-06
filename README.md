@@ -25,12 +25,12 @@ A custom-built, professional-grade video player powered by **HLS.js**, with live
 
 ## 📷 Screenshots
 
-<img src="screenshots/desktop.png" alt="Desktop view" width="100%"/>
-<img src="screenshots/mobile.png" alt="Mobile view" width="45%"/>
-<img src="screenshots/lightmode.png" alt="Lightmode view" width="100%"/>
+<img src="screenshots/desktop.PNG" alt="Desktop view" width="100%"/>
+<img src="screenshots/mobile.PNG" alt="Mobile view" width="45%"/>
+<img src="screenshots/lightmode.PNG" alt="Lightmode view" width="100%"/>
 
 
-## 👤 Author
+## 👤 AutPNG
 
 Built with care and ambition by [**Etka Özer**](https://github.com/etkaozer).
 
