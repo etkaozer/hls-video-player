@@ -1,0 +1,19 @@
+{
+  "name": "hls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^5.2.10"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.0",
+    "hls.js": "^1.6.6"
+  }
+}
